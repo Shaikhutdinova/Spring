@@ -16,5 +16,16 @@
 
     <dependencies>
         <!-- TODO: Добавьте зависимость spring-context -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>6.1.11</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>6.1.11</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 </project>
